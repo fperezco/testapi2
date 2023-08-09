@@ -1,0 +1,252 @@
+{
+  "heroes": [
+        { 
+          "uuid": "d877714b-8dd2-4ecf-9d3d-688d00738c88",
+          "hero_name" : "Darth Kotlin",
+          "hero_superpower" : "Writes Kotlin code telepathically",
+          "hero_uniform_color" : "black",
+          "hero_wears_cape" : true
+        },
+        { 
+          "uuid": "d877714b-8dd2-4ecf-9d3d-688d00738c22",
+          "hero_name" : "Captain Java",
+          "hero_superpower" : "Can orient objects",
+          "hero_uniform_color" : "red",
+          "hero_wears_cape" : false
+        },
+        {
+          "uuid": "d877714b-8dd2-4ecf-9d3d-688d00738c33",          
+          "hero_name" : "The Black Python",
+          "hero_superpower" : "Can make machines learn",
+          "hero_uniform_color" : "black",
+          "hero_wears_cape" : false
+        },
+        {
+          "uuid": "d877714b-8dd2-4ecf-9d3d-688d00738c44",          
+          "hero_name" : "Scala Man",
+          "hero_superpower" : "Has multiple super powers can orient objects like Captain Java, but also can separate them into monads",
+          "hero_uniform_color" : "red and blue",
+          "hero_wears_cape" : true
+        }
+  ],
+  "actions": [
+  {
+    "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "quis voluptate"
+  },
+  {
+    "uuid": "fccf801f-cbf5-4ade-957b-a192aba58926",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "voluptate veniam"
+  },
+  {
+    "uuid": "f10d85a7-7298-4954-83be-b547d632289f",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "qui qui"
+  },
+  {
+    "uuid": "192d6015-a51e-470e-ab78-37170059995d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "consectetur est"
+  },
+  {
+    "uuid": "57074f05-c0a7-4dd4-be8e-2c991efc80b2",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "do excepteur"
+  },
+  {
+    "uuid": "d3f16e01-1a99-4706-8efa-ae8e3332a54d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "culpa ipsum"
+  }
+],
+    "otras": [
+  {
+    "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "quis voluptate"
+  },
+  {
+    "uuid": "fccf801f-cbf5-4ade-957b-a192aba58926",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "voluptate veniam"
+  },
+  {
+    "uuid": "f10d85a7-7298-4954-83be-b547d632289f",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "qui qui"
+  },
+  {
+    "uuid": "192d6015-a51e-470e-ab78-37170059995d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "consectetur est"
+  },
+  {
+    "uuid": "57074f05-c0a7-4dd4-be8e-2c991efc80b2",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "do excepteur"
+  },
+  {
+    "uuid": "d3f16e01-1a99-4706-8efa-ae8e3332a54d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "culpa ipsum"
+  }
+],
+  "cosas": [
+  {
+    "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "quis voluptate"
+  },
+  {
+    "uuid": "fccf801f-cbf5-4ade-957b-a192aba58926",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "voluptate veniam"
+  },
+  {
+    "uuid": "f10d85a7-7298-4954-83be-b547d632289f",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "qui qui"
+  },
+  {
+    "uuid": "192d6015-a51e-470e-ab78-37170059995d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "consectetur est"
+  },
+  {
+    "uuid": "57074f05-c0a7-4dd4-be8e-2c991efc80b2",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "do excepteur"
+  },
+  {
+    "uuid": "d3f16e01-1a99-4706-8efa-ae8e3332a54d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "culpa ipsum"
+  }
+],
+    "yeaa": [
+  {
+    "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "quis voluptate"
+  },
+  {
+    "uuid": "fccf801f-cbf5-4ade-957b-a192aba58926",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "voluptate veniam"
+  },
+  {
+    "uuid": "f10d85a7-7298-4954-83be-b547d632289f",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "qui qui"
+  },
+  {
+    "uuid": "192d6015-a51e-470e-ab78-37170059995d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "consectetur est"
+  },
+  {
+    "uuid": "57074f05-c0a7-4dd4-be8e-2c991efc80b2",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "do excepteur"
+  },
+  {
+    "uuid": "d3f16e01-1a99-4706-8efa-ae8e3332a54d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "culpa ipsum"
+  }
+],
+  "items": [
+  {
+    "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "quis voluptate"
+  },
+  {
+    "uuid": "fccf801f-cbf5-4ade-957b-a192aba58926",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "voluptate veniam"
+  },
+  {
+    "uuid": "f10d85a7-7298-4954-83be-b547d632289f",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "qui qui"
+  },
+  {
+    "uuid": "192d6015-a51e-470e-ab78-37170059995d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "consectetur est"
+  },
+  {
+    "uuid": "57074f05-c0a7-4dd4-be8e-2c991efc80b2",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": true,
+    "title": "do excepteur"
+  },
+  {
+    "uuid": "d3f16e01-1a99-4706-8efa-ae8e3332a54d",
+    "category": "male",
+    "picture": "http://placehold.it/32x32",
+    "enabled": false,
+    "title": "culpa ipsum"
+  }
+]  
+}
